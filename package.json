@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "name": "5-ejs-engine-machine-assignment",
+  "version": "1.0.0",
+  "description": "Ejs assigment",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FerhatAdibelli",
+  "license": "ISC"
+}

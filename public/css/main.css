@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(182, 155, 176);
+  font-family: "Courier New", Courier, monospace;
+  font-size: larger;
+}
+
+button {
+  border-radius: 5px;
+  margin: 2px;
+  padding: 2px;
+  background-color: rgb(175, 215, 216);
+  cursor: pointer;
+}
+div {
+  display: inline-block;
+}
